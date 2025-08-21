@@ -1,16 +1,31 @@
-# taskati_app
+# 📝 Tasks App
 
-A new Flutter project.
+A simple and elegant task management mobile application built with **Flutter**.  
+The app allows users to create, edit, and manage their daily tasks with a clean UI and a **Dark Mode** option for better user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ✅ Add, edit, and delete tasks  
+- 👤 Profile section with **user account name & profile picture**  
+- 🌗 **Dark Mode** & Light Mode support  
+- 🎯 Simple, clean, and modern design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](assets/screenshots/home_white.png) | ![Dark Mode](assets/screenshots/home_black.png) |
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter & Dart** – UI & Logic  
+- **Hive / Firebase** – Local & Cloud Storage  
+- **Cubit / Provider** – State Management  
+
+---
+
+## 📂 Project Structure
