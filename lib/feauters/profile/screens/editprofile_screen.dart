@@ -111,7 +111,7 @@ class _EditprofileScreenState extends State<EditprofileScreen> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Text(
-                    '${variablesData.name}',
+                    variablesData.name,
                     style: StyleData.bigfont.copyWith(color: ColorData.blue),
                   ),
                   InkWell(
