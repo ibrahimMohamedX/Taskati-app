@@ -22,10 +22,16 @@ The app allows users to create, edit, and manage their daily tasks with a clean 
 ---
 
 ## 🛠️ Tech Stack
-- **Flutter & Dart** – UI & Logic  
-- **Hive / Firebase** – Local & Cloud Storage  
-- **Cubit / Provider** – State Management  
+- **Flutter & Dart** – UI & Logic
 
----
+# Clone the repository
+git clone https://github.com/ibrahimMohamedX/Taskati-app.git
 
-## 📂 Project Structure
+# Navigate to project directory
+cd Taskati-app
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
